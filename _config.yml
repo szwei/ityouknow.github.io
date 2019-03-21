@@ -214,17 +214,17 @@ comments_provider: gitalk
 # !!!Important!!! Please modify infos below to yours
 # https://disqus.com
 disqus:
-    username: couldme
+    username: szwei
 # https://imsun.net/posts/gitment-introduction/
 gitment:
-    owner: couldme
+    owner: szwei
     repo: blog-comments
     oauth:
         client_id: c6abf87f71a7bf4ee726
         client_secret: 6935eb981c6572b352dad238339f8dffb4e5d1fe
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: couldme
+    owner: szwei
     repo: blog-comments
     clientID: c6abf87f71a7bf4ee726
     clientSecret: 6935eb981c6572b352dad238339f8dffb4e5d1fe
