@@ -98,15 +98,15 @@ navs:
     href: /spring-boot.html
     label: Spring Boot
     target: _self
-    subnav:
-
-      -
-        subHref: /spring-boot.html
-        subLabel: Spring Boot
-
-      -
-        subHref: /spring-cloud.html
-        subLabel: Spring Cloud
+#    subnav:
+#
+#      -
+#        subHref: /spring-boot.html
+#        subLabel: Spring Boot
+#
+#      -
+#        subHref: /spring-cloud.html
+#        subLabel: Spring Cloud
 
   -
     href: /spring-cloud.html
