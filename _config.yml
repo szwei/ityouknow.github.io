@@ -112,6 +112,10 @@ navs:
     href: /spring-cloud.html
     label: Spring Cloud
     target: _self
+  -
+   href: /vue.html
+   label: Vue
+   target: _self
 
   -
     
