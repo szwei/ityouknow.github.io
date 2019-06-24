@@ -68,7 +68,7 @@ menus:
 
   -
     href: /arch.html
-    label: 架构
+    label: 总结
     target: _self
 
   -
@@ -178,8 +178,8 @@ classes:
 
   -
     href: /arch.html
-    name: 架构师之路
-    describe: 一个架构师的自我修养
+    name: 每日总结
+    describe: 不断总结，不断成长
 
   -
     href: /java.html
