@@ -230,7 +230,7 @@ gitment:
 gitalk:
     owner: szwei
     repo: szwei.github.io
-    clientID: c6abf87f71a7bf4ee726
-    clientSecret: 6935eb981c6572b352dad238339f8dffb4e5d1fe
+    clientID: 57ad1bd494a86ca83d6c
+    clientSecret: 6d1d0d44382e519d0e3411bf6073ed4f937e3687
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : true
