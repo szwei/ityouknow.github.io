@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2019-06-24 总结
+title: 2019-06-25 总结
 category: arch
 tags: [arch]
 ---
